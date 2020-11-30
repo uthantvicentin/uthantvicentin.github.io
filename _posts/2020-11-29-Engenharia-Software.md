@@ -14,8 +14,6 @@ A prática da tecnologia de software baseado em componentes baseia-se no desenvo
 Dessa forma, o processo de engenharia de software baseada em componentes tem mudado o modo pelo qual sistemas são desenvolvidos, pois desloca a ênfase da programação do software para a composição de sistema de software com base em componentes (PRESMMAN, 2002).
 
 </p>
-![Imagem 1](https://rockcontent.com/wp-content/uploads/2020/02/teste-de-lideran%C3%A7a.png)
-![Imagem 2](img2.png)
 
 ## Referências
 PRESSMAN, Roger; MAXIM, Bruce. Engenharia de Software-8ª Edição. McGraw Hill Brasil, 2002.
