@@ -25,4 +25,3 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit minima eum enim it
 1. palavra
 1. palavra
 
-![Gatinho branco com carinha de coitado](https://i.ytimg.com/vi/mW3S0u8bj58/maxresdefault.jpg)
