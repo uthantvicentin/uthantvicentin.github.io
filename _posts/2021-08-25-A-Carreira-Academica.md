@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Metodologia de Pesquisa Científica em Computação"
+title:  "Resumo: A carreira acadêmica"
 ---
 
 ## A carreira acadêmica
