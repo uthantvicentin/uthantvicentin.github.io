@@ -3,7 +3,6 @@ layout: post
 title:  "Resumo: Capítulo II - “Metodologia de Pesquisa para Ciência da Computação"
 ---
 
-## Resumo do capítulo II do livro “Metodologia de Pesquisa para Ciência da Computação”.
 ### Estilos de pesquisa concorrentes em computação
 
 As pesquisas em computação não precisam ser realizadas sem embasamento teórico. Até os anos 2000 os cursos relacionados a computação poderiam ser denominados em, Bacharelado em Ciência da Computação, Análise de Sistemas, Bacharelado em Informática, Engenharia de Computação, Engenharia de Informática… não costumava existir nenhuma referência do nome do cursa com a formação. Após os anos 2000 o ministério da educação definiu em quatro pilares: Bacharelado em Ciências da computação; Bacharelado em Sistemas de Informação; Licenciatura em Informática; Engenharia da computação. O que ainda não garante a exatidão na formação do profissional, uma vez que um licenciado pode exercer funções de engenheiro, bacharel ou analista e os mesmos profissionais podem exercer a função de docente em cursos de computação.
