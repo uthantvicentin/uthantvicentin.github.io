@@ -3,7 +3,7 @@ layout: post
 title:  "Resumo: Escolha um bom orientador"
 ---
 
-## A carreira acadêmica
+## Escolha um bom orientador 
 <p style='text-align: justify;'>
 Sinopse: Escolha um bom orientador (PALAZZO, 2020).
 <br>
