@@ -3,17 +3,16 @@ layout: post
 title:  "Resumo: Capítulo II - “Metodologia de Pesquisa para Ciência da Computação"
 ---
 
-## A carreira acadêmica
 <p style='text-align: justify;'>
 Resumo do capítulo II do livro “Metodologia de Pesquisa para Ciência da Computação”.
 <br>
 
-### Estilos de pesquisa concorrentes em computação
+<h2> Estilos de pesquisa concorrentes em computação
 
 As pesquisas em computação não precisam ser realizadas sem embasamento teórico. Até os anos 2000 os cursos relacionados a computação poderiam ser denominados em, Bacharelado em Ciência da Computação, Análise de Sistemas, Bacharelado em Informática, Engenharia de Computação, Engenharia de Informática… não costumava existir nenhuma referência do nome do cursa com a formação. Após os anos 2000 o ministério da educação definiu em quatro pilares: Bacharelado em Ciências da computação; Bacharelado em Sistemas de Informação; Licenciatura em Informática; Engenharia da computação. O que ainda não garante a exatidão na formação do profissional, uma vez que um licenciado pode exercer funções de engenheiro, bacharel ou analista e os mesmos profissionais podem exercer a função de docente em cursos de computação.
 <br>
 
-### Estilo apresentação de produto
+<h2> Estilo apresentação de produto
     Como a computação também possui áreas em constante desenvolvimento, ocorre a possibilidade de que ainda não haja pesquisa em determinado segmento. Então, quando surgem esses impasses, a forma de pesquisa abordada é eminentemente exploratória, fazendo com que seja difícil encontrar pesquisas anteriores.
 <br>
 Pesquisas dessa natureza são do tipo: “Fiz algo novo, eis meu produto”. É provável que áreas que já estejam mais desenvolvidas não aceitem pesquisas dessa natureza. Artigos em que o aluno desenvolve uma aplicação e escreve um artigo apresentando-o, não há comparativos, não é apresentado nenhum conhecimento novo, a não ser a própria aplicação, devem ser evitados.
