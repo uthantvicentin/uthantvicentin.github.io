@@ -74,6 +74,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 blog_name: uthantvicentin blog  # your blog must have a name for it to show up in the nav bar
 blog_description: academic reviews
+permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
