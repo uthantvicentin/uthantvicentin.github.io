@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Engenharia de Software"
+title:  Engenharia de Software
 ---
 
 ## Componentes
