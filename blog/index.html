@@ -22,7 +22,7 @@ pagination:
 
 
   <ul class="post-list">
-    {% for post in paginator.posts %}
+        {% for post in site.posts %}
       <li>
       <div class="list-item">
         <h2 class="list-post-title">
@@ -36,6 +36,6 @@ pagination:
     {% endfor %}
   </ul>
 
-  {% include pagination.html %}
+  <!--{% include pagination.html %}-->
 
 </div>
