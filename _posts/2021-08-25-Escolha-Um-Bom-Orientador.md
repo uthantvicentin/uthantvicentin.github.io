@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Resumo: Escolha um bom orientador"
+comments: true
 ---
 
 ## Escolha um bom orientador 

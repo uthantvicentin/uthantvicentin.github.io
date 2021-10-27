@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Resumo: A carreira acadêmica"
+comments: true
 ---
 
 ## A carreira acadêmica

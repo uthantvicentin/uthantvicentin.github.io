@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Resumo: Capítulo II - “Metodologia de Pesquisa para Ciência da Computação"
+comments: true
 ---
 
 ### Estilos de pesquisa concorrentes em computação
