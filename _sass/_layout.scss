@@ -1,118 +1,46 @@
-.lead {
-  font-size: 1.25rem;
-}
+/******************************************************************************
+ * Content
+ ******************************************************************************/
+
+ body {
+   padding-bottom: 70px;
+   color: var(--global-text-color);
+   background-color: var(--global-bg-color);
+ }
+
+ body.fixed-top-nav {
+   // Add some padding for the nav-bar.
+   padding-top: 56px;
+ }
+
+ body.sticky-bottom-footer {
+   // Remove padding below footer.
+   padding-bottom: 0;
+ }
 
 .container {
-  max-width: 38rem;
-  padding: 2rem 1.5rem;
-  margin-left:  auto;
-  margin-right: auto;
+  max-width: $max-content-width;
+}
 
-  @media (min-width: 38rem){
-    padding: 5rem 1rem;
+// Profile
+.profile {
+  img {
+    width: 100%;
   }
 }
 
-.masthead {
+// TODO: redefine content layout.
 
-  &-title {
-    font-weight: 300;
 
-    a {
-      color: #333;
+/******************************************************************************
+ * Publications
+ ******************************************************************************/
 
-      &:hover,
-      &:focus {
-        text-decoration: none;
-      }
-    }
+// TODO: redefine publications layout.
 
-    span {
-      color: #ddd;
-    }
 
-  }
+/*****************************************************************************
+* Projects
+*****************************************************************************/
 
-  &-title--small {
-    margin-bottom: .75rem;
-    font-size: .75rem;
-    font-weight: 600;
-    text-transform: uppercase;
-
-    a {
-      color: #333;
-
-      &:hover,
-      &:focus {
-        text-decoration: none;
-      }
-    }
-  }
-
-  .masthead-nav {
-    margin-bottom: 2rem;
-
-    a {
-      color: #aaa;
-      font-weight: 300;
-      text-transform: lowercase;
-      -webkit-transition: all .2s ease;
-         -moz-transition: all .2s ease;
-              transition: all .2s ease;
-
-      &:hover,
-      &:focus {
-        color: #333;
-        text-decoration: none;
-      }
-
-      + a {
-        margin-left: .25rem;
-      }
-    }
-  }
-
-}
-
-.page {
-  &-title {
-    margin-bottom: 2rem;
-  }
-}
-
-.post {
-  &-title {
-    margin-bottom: .25rem;
-  }
-  &-date {
-    margin-bottom: 2rem;
-    font-size: .75rem;
-    text-transform: uppercase;
-  }
-}
-
-.list {
-  &-post-title {
-    margin: 1rem 0 .25rem;
-
-    a {
-      color: #333;
-
-      &:hover,
-      &:focus {
-        text-decoration: none;
-      }
-    }
-  }
-  &-post-date {
-    margin-bottom: 1rem;
-    font-size: .75rem;
-    text-transform: uppercase;
-  }
-}
-
-.projects-list {
-  a {
-    color: #333;
-  }
-}
+// TODO: redefine projects layout.
